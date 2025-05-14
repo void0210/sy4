@@ -1,44 +1,6 @@
-# Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
-
-This folder contains the code for the TensorFlow Lite codelab:
-
-* [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
-
-## Introduction
-
-This beta codelab introduces the latest tooling using TensorFlow Lite Model Maker and Android Studio 4.1 Beta 1 or above. In addition, it will require access to a physical Android device to test. If you prefer to use the stable version of this codelab, follow this codelab instead.
-
-In these codelabs, you will learn:
-
-*   How to train your own custom image classifier using [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/tutorials/model_maker_image_classification).
-*   How to use Android Studio to import the TensorFlow Lite model to integrate the custom model in an Android app using CameraX.
-*   How to use GPU on your phone to accelerate your model.
-
-
-## Pre-requisites
-
-[Android Studio 4.1 Beta 1 or above](http://developers.android.com/studio/preview)
-
-## Getting Started
-
-Visit the Google codelabs site to follow along the guided steps.
-
-## Support
-
-- Stack Overflow: https://stackoverflow.com/questions/tagged/tensorflow-lite+android-studio
-
-## License
-
- Copyright (C) 2020 The Android Open Source Project
- 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
- 
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
+![cc5be96621bea8007f2dc28bd5f1a00c](https://github.com/user-attachments/assets/c9d6e0d7-245c-4f14-9089-31fdc7a64557)
+![adb1dbacd47b2578ee58d7a6d3413775_720](https://github.com/user-attachments/assets/affc7763-f211-4131-b966-b08d792a39d1)
+![8911a9c619951d4c349e0b0eec56a2fc_720](https://github.com/user-attachments/assets/9c7ebc9e-3451-435b-b017-d57e1a4bd065)
+![bfb261d8f7d8cb5e94256c76b2a44fb1](https://github.com/user-attachments/assets/fe750e02-097f-42c5-a64b-efc91ee63989)
+![938f69c5f8c01a7294ff98121430b960](https://github.com/user-attachments/assets/4fb58851-85ea-44a5-8e21-8d47a17fef3d)
+![d3a09544d79880e078fed2c436a65d8f_720](https://github.com/user-attachments/assets/98b87dc3-b5b8-4d48-8b54-64d210c8d2d6)
